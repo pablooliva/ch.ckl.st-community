@@ -1,0 +1,669 @@
+{
+  "parentChecklist": null,
+  "active": true,
+  "public": true,
+  "created": "2019-01-08T14:02:24.514Z",
+  "updated": "2019-01-08T14:02:24.514Z",
+  "documentTags": [
+    {
+      "active": true,
+      "created": "2019-01-08T14:02:24.523Z",
+      "_id": "5c391b11792475004a001eed",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "landing pages",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2018-12-31T12:33:15.825Z",
+      "_id": "5c2e45e35205c0004ad11b4a",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "webdev",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-01-08T14:02:24.523Z",
+      "_id": "5c391b34792475004a001eee",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "marketing",
+      "__v": 0
+    }
+  ],
+  "_id": "5c391e9e792475004a001eef",
+  "owner": "5beda2b541b36800db44faa4",
+  "documentTitle": "Landing Page Design Best Practices Checklist",
+  "flexibleText": "<p><img src=\"https://api.ch.ckl.st/user-images/seer-interactive.png-1547290362633.png\"></p><p>Landing pages have two main goals:</p><ol><li>provide users with the critical information needed to make a decision, and</li><li>provide a clear path to act.</li></ol><p>This checklist is adapted from the excellent post by <a href=\"https://www.seerinteractive.com/blog/ux-checklist-landing-page-design/\" target=\"_blank\">Seer Interactive</a>. Additional information and examples can be found in that post.</p><p>This checklist is part of a comprehensive series on critical <a href=\"https://ch.ckl.st/share/5c38a726792475004a001e19\" target=\"_blank\">checklists for web development</a>.</p>",
+  "checklistTags": [
+    {
+      "_id": "5c39d522792475004a002168",
+      "label": "General clarity",
+      "color": "#ff7e00",
+      "icon": "find_in_page"
+    },
+    {
+      "_id": "5c39d522792475004a002167",
+      "label": "Design clarity",
+      "color": "#9900ff",
+      "icon": "all_inclusive"
+    },
+    {
+      "_id": "5c39d522792475004a002166",
+      "label": "Persuasive techniques",
+      "color": "#00840e",
+      "icon": "stars"
+    }
+  ],
+  "customCss": "",
+  "sections": [
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51356b",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a51356a",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513569",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513568",
+          "label": "Value prop is clearly communicated",
+          "flexibleText": "<p>Users should immediately be able to figure out what the page is about, how it’s useful to them, how the product or service works at high level, and how and why they should act.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513567",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513566",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513565",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513564",
+          "label": "Information is scannable",
+          "flexibleText": "<p>Keep it clear &amp; concise! 79% of users scan content, while only 16% read every word. A good rule of thumb is to make no paragraph longer than 3-4 lines, with descriptive subheads after every 2 paragraphs. In fact, the <a href=\"https://www.nngroup.com/articles/how-users-read-on-the-web/\" target=\"_blank\">Nielsen Norman Group</a>&nbsp;found that concise, scannable, and objective copywriting led to a 124% increase in usability.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513563",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513562",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513561",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513560",
+          "label": "Headline is attention-grabbing and clear",
+          "flexibleText": "<p>Your headline is the first thing users see when they land on your page. It should be clear, relevant, and touch on the key benefit of your offer. It should also meet your users’ expectations: if they came to your landing page from an ad, make sure the messaging is consistent.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51355f",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a51355e",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51355d",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51355c",
+          "label": "Subheads communicate more specific information, not just label things",
+          "flexibleText": "<p>Don’t underestimate the power of scannable, informative subheads.. For example, instead of saying “Our Process” try incorporating a benefit: “Our Process Saves You X.”</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51355b",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a51355a",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513559",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513558",
+          "label": "Bullet points communicate features and benefits",
+          "flexibleText": "<p>Bulleted lists are easier to consume and remember than paragraphs. Use lists for key benefits and features, or any other supporting information important to the value prop.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513557",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513556",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513555",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513554",
+          "label": "No jargon",
+          "flexibleText": "<p>Jargon, superlatives, hype, or any other meaningless phrases should be avoided. Not only are they hard to understand, but they come across as gimmicky and untrustworthy. When it doubt, keep it simple &amp; direct!</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513553",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513552",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513551",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513550",
+          "label": "Information is complete",
+          "flexibleText": "<p>All critical pieces of information needed to make a decision should be addressed. This can include doubts or hesitations about things like pricing, shipping, return policy information, or guarantees.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51354f",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51354e",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a51354d",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51354c",
+          "label": "Your first impression should be positive",
+          "flexibleText": "<p>People are quick to judge, and process visuals much quicker than content. This means your design is critical to your reputation! Your design should look professional, trustworthy, and not spammy.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51354b",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51354a",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513549",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513548",
+          "label": "Establish a strong visual hierarchy",
+          "flexibleText": "<p>Is the largest and/or most prominent thing on your page the most important? Your offer and your call to action should rank high in your visual hierarchy. Consider size, placement, color, and position above or below the fold.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513547",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513546",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513545",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513544",
+          "label": "Avoid false bottoms",
+          "flexibleText": "<p>False bottoms happen when there’s an illusion that the page is complete, despite there being more content below. Be mindful of areas on your page that feel like a logical end, and add visual cues. While it’s true that almost everyone scrolls, we want to make sure to motivate them to <em>keep</em>&nbsp;scrolling.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513543",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513542",
+              "tag": true
+            },
+            {
+              "_id": "5c56e7c55830f6004a513541",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513540",
+          "label": "Images and/or videos are high quality and support the content",
+          "flexibleText": "<p>Larger than life photographs capture human attention, but we want to make sure they communicate the right story. Make sure your images and videos directly support your content and value prop. High quality images and photos also help create a positive first impression and a feeling of professionalism.</p>",
+          "checked": true
+        }
+      ],
+      "_id": "5c56e7c55830f6004a51353f",
+      "title": "Clarity",
+      "flexibleText": "<p>Clarity is possibly the most important topic we’ll cover in this list. If you want people to act, they first need to understand what you’re offering. Ideally, your page should be easy enough to understand that any visitor would be able to explain your product or service offering to another person.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51353e",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51353d",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51353c",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51353b",
+          "label": "Focus on the user, not on your product",
+          "flexibleText": "<p>Clearly show the benefits your user will get to help them understand why they should take action. For example, “Get in shape in 4 weeks” is a stronger incentive than “We specialize in cardio training.”</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51353a",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513539",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513538",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513537",
+          "label": "Educate on both features & benefits ",
+          "flexibleText": "<p>“Features tell, but benefits sell.” Features (tech specs, details, materials, composition, facts) are important for context &amp; decision-making, but they should be translated into benefits. Benefits (value props, sales pitches, testimonials) drive your offer. Educate on both, but strike a balance based on which will resonate best with your target audience.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513536",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513535",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513534",
+              "tag": true
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513533",
+          "label": "Urgency",
+          "flexibleText": "<p>Used to give people a nudge to act now. Ex: “Limited time offer” or “5 days left to join!”</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513532",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513531",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513530",
+              "tag": true
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51352f",
+          "label": "Social proof",
+          "flexibleText": "<p>This is any third party claim from outside of the company that’s used to rationalize decisions. Social proof is most effective when it’s used in context to alleviate a friction or pain point. Ex: testimonials, ratings &amp; reviews, case studies, security icons, stats &amp; data.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51352e",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51352d",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51352c",
+              "tag": true
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51352b",
+          "label": "Scarcity",
+          "flexibleText": "<p>Similar to urgency, but refers to an amount rather than time. People are drawn to things that appear exclusive or unique. Ex: “2 items left in stock” or “Booked 17 times in the last 6 hours!”</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51352a",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513529",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513528",
+              "tag": true
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513527",
+          "label": "Authority",
+          "flexibleText": "<p>Trustworthy figures go a long way, which is why so many companies use doctors, celebrities or famous chefs to endorse their products. Ex: “9 out of 10 doctors recommend…”</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513526",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513525",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513524",
+              "tag": true
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513523",
+          "label": "Reciprocity",
+          "flexibleText": "<p>People are more inclined to buy if you give them a freebie. Ex: Free shipping, giveaways, coupons/discounts, special deals, free cancellation.</p>",
+          "checked": true
+        }
+      ],
+      "_id": "5c56e7c55830f6004a513522",
+      "title": "Incentives",
+      "flexibleText": "<p>Incentives are the motivators that encourage people to act <em>here</em>&nbsp;&amp; <em>now</em>&nbsp;rather than later. Make your offering seem irresistible by incorporating persuasion techniques relevant to your value prop.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513521",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513520",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51351f",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51351e",
+          "label": "Your landing page needs to be usable",
+          "flexibleText": "<p>People like <a href=\"https://lawsofux.com/hicks-law.html\" target=\"_blank\">low visual complexity</a>&nbsp;(keep it simple) and <a href=\"https://lawsofux.com/jakobs-law\" target=\"_blank\">high prototypicality</a>&nbsp;(keep the layout familiar)!</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51351d",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51351c",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51351b",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51351a",
+          "label": "Relevancy & Expectations",
+          "flexibleText": "<p>Does your headline match the page content? Do the CTAs match the value they’re getting? Are the images or videos relevant to your content? Also, where did your user come from? If they came from a display ad promoting a “Free Trial”, then “Free Trial” better be promoted on your landing page.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513519",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513518",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513517",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513516",
+          "label": "Your landing page meets technical standards",
+          "flexibleText": "<p>In the age of the mobile phone, your page must be responsive and work across multiple devices. Furthermore, it must also work across multiple browsers, and load quickly. Make sure you’re thorough with your technical QA, or conduct a walkthrough of your page on multiple devices and browsers to spot bugs or technical issues.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513515",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513514",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513513",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513512",
+          "label": "Your form is simple",
+          "flexibleText": "<p>Make sure your form only asks for the necessary questions. If you’re asking for sensitive information, or people have doubts around privacy and security, they’re not going to submit that form. Confirmation messages, clear error validation, and intuitive labels and microcopy are also important.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513511",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513510",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51350f",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51350e",
+          "label": "Your users have doubts, anxieties, or unanswered questions",
+          "flexibleText": "<p>Make sure you address any fears or concerns your user might have to complete the task. Are you selling a product, but don’t offer any information about a return policy or guarantees? Tackling these friction points and leaving no question unanswered helps to alleviate doubts and fears in your user.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a51350d",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51350c",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a51350b",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a51350a",
+          "label": "Avoid unnecessary distractions",
+          "flexibleText": "<p>Are blinking banners or automatic sliders stealing attention? Do you have lots of information unrelated to the offer? Are there any elements not directly contributing to visitors taking desired action? If the answer is yes to any of these questions, chances are you should make some cuts.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513509",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513508",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513507",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513506",
+          "label": "Accessibility issues",
+          "flexibleText": "<ul><li><a href=\"https://webaim.org/resources/contrastchecker/\" target=\"_blank\">Use a contrast checker</a>&nbsp;to make sure the contrast between the text and background colors is high enough that things are readable.</li><li>Avoid using color as the only way to convey information</li><li>Make sure your page can be navigated with a keyboard, or without using a mouse</li><li>All clickable items should be large and easily clicked. (44×44 px is a good benchmark)</li><li>Provide alt attributes for any non-text element, such as images and maps</li><li>Add captions and transcripts for audio and video</li></ul>",
+          "checked": true
+        }
+      ],
+      "_id": "5c56e7c55830f6004a513505",
+      "title": "Friction Points",
+      "flexibleText": "<p>Friction points are arguably the second-most important category in this list. Friction manifests as the obstacles, fears, anxieties, or doubts a user may face before completing a task or conversion. These can be anything from technical bugs to inconsistent messaging to poor design &amp; usability. Identifying and addressing these issues head on can go a long way to improve usability and conversions.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513504",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513503",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a513502",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a513501",
+          "label": "The path to act is extremely clear",
+          "flexibleText": "<p>Make sure your CTAs are large with enough white space and visual contrast around them so that they stand out on the page. Relevant icons can also help draw attention to your CTAs.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a513500",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134ff",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134fe",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a5134fd",
+          "label": "Secondary paths to act appear secondary",
+          "flexibleText": "<p>Consider adding secondary paths to act for visitors in different stages (research, evaluation, etc.), but don’t forget about your visual hierarchy. Secondary paths to act should look secondary.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a5134fc",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134fb",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134fa",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a5134f9",
+          "label": "Buttons labels are specific & clear",
+          "flexibleText": "<p>As a good rule of thumb, your labels should finish the statement, “I want to…” You can also use keyword research, user testing, and surveys to identify a trigger word to include in your CTA. If your users are looking for “pricing” then the trigger would be “pricing.” It’s also best to avoid using “Submit”. The expectations are vague, and very few people are eager to “Submit”.</p>",
+          "checked": true
+        },
+        {
+          "checklistTagsEnabled": [
+            {
+              "_id": "5c56e7c55830f6004a5134f8",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134f7",
+              "tag": false
+            },
+            {
+              "_id": "5c56e7c55830f6004a5134f6",
+              "tag": false
+            }
+          ],
+          "_id": "5c56e7c55830f6004a5134f5",
+          "label": "Your action paths highlight a benefit",
+          "flexibleText": "<p>Incorporate “click triggers” like the incentives mentioned above to add motivation or alleviate a fear or concern. For example, “No credit card required” or “Cancel anytime” can go a long way to alleviate anxiety, while “Limited time offer” or “Only 1 left in stock” adds a sense of urgency.</p>",
+          "checked": true
+        }
+      ],
+      "_id": "5c56e7c55830f6004a5134f4",
+      "title": "Action",
+      "flexibleText": ""
+    }
+  ],
+  "__v": 54
+}

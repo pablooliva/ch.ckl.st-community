@@ -1,0 +1,386 @@
+{
+  "parentChecklist": null,
+  "active": true,
+  "public": true,
+  "created": "2019-01-08T14:02:24.514Z",
+  "updated": "2019-01-08T14:02:24.514Z",
+  "documentTags": [
+    {
+      "active": true,
+      "created": "2019-01-08T14:02:24.523Z",
+      "_id": "5c3a07c8792475004a002277",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "security",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2018-12-31T12:33:15.825Z",
+      "_id": "5c2e45e35205c0004ad11b4a",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "webdev",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2018-12-31T12:33:15.825Z",
+      "_id": "5c2e45ea5205c0004ad11b4b",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "web development",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-01-08T14:02:24.523Z",
+      "_id": "5c3a2770792475004a002401",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "api",
+      "__v": 0
+    }
+  ],
+  "_id": "5c3a288e792475004a002402",
+  "owner": "5beda2b541b36800db44faa4",
+  "documentTitle": "API Security Checklist",
+  "flexibleText": "<p><img src=\"https://api.ch.ckl.st/user-images/shieldfy-logo.png-1547315233637.png\"></p><p>Based on Shieldfy's excellent <a href=\"https://github.com/shieldfy/API-Security-Checklist\" target=\"_blank\">secure API design checklist</a>.</p><p>This checklist is part of a comprehensive series on critical <a href=\"https://ch.ckl.st/share/5c38a726792475004a001e19\" target=\"_blank\">checklists for web development</a>.</p>",
+  "checklistTags": [],
+  "customCss": "",
+  "sections": [
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134f0",
+          "label": "Avoid Basic Auth",
+          "flexibleText": "<p>Don't use <code>Basic Auth</code>. Use standard authentication (e.g. <a href=\"https://jwt.io/\" target=\"_blank\">JWT</a>, <a href=\"https://oauth.net/\" target=\"_blank\">OAuth</a>).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134ef",
+          "label": "Use the standards",
+          "flexibleText": "<p>Don't reinvent the wheel in <code>Authentication</code>, <code>token generation</code>, <code>password storage</code>.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134ee",
+          "label": "Use Max Retry",
+          "flexibleText": "<p>Use <code>Max Retry</code> and jail features in Login.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134ed",
+          "label": "Use encryption",
+          "flexibleText": "<p>Use encryption on all sensitive data.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134ec",
+      "title": "Authentication",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134eb",
+          "label": "Use a random complicated key",
+          "flexibleText": "<p>Use a random complicated key (<code>JWT Secret</code>) to make brute forcing the token very hard.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134ea",
+          "label": "Force the algorithm in the backend",
+          "flexibleText": "<p>Don't extract the algorithm from the payload. Force the algorithm in the backend (<code>HS256</code> or <code>RS256</code>).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e9",
+          "label": "Expire tokens as soon as possible",
+          "flexibleText": "<p>Make token expiration (<code>TTL</code>, <code>RTTL</code>) as short as possible.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e8",
+          "label": "Don't store sensitive data in the JWTs",
+          "flexibleText": "<p>Don't store sensitive data in the JWT payload, it can be decoded <a href=\"https://jwt.io/#debugger-io\" target=\"_blank\">easily</a>.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134e7",
+      "title": "JWT (JSON Web Token)",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e6",
+          "label": "Validate redirect_uri server-side ",
+          "flexibleText": "<p>Always validate <code>redirect_uri</code> server-side to allow only whitelisted URLs.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e5",
+          "label": "Exchange for code and not tokens",
+          "flexibleText": "<p>Always try to exchange for code and not tokens (don't allow <code>response_type=token</code>).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e4",
+          "label": "Use state parameter with a random hash",
+          "flexibleText": "<p>Use <code>state</code> parameter with a random hash to prevent CSRF on the OAuth authentication process.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e3",
+          "label": "Validate scope parameters",
+          "flexibleText": "<p>Define the default scope, and validate scope parameters for each application.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134e2",
+      "title": "OAuth",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e1",
+          "label": "Throttle requests",
+          "flexibleText": "<p>Limit requests (Throttling) to avoid DDoS / brute-force attacks.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134e0",
+          "label": "Use HTTPS",
+          "flexibleText": "<p>Use HTTPS on server side to avoid MITM (Man in the Middle Attack).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134df",
+          "label": "Use HSTS",
+          "flexibleText": "<p>Use <code>HSTS</code> header with SSL to avoid SSL Strip attack.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134de",
+      "title": "Access",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134dd",
+          "label": "Use the proper HTTP method according to the operation",
+          "flexibleText": "<p>Use the proper HTTP method according to the operation: <code>GET (read)</code>, <code>POST (create)</code>, <code>PUT/PATCH (replace/update)</code>, and <code>DELETE (to delete a record)</code>, and respond with <code>405 Method Not Allowed</code> if the requested method isn't appropriate for the requested resource.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134dc",
+          "label": "Validate content-type on request Accept header",
+          "flexibleText": "<p>Validate <code>content-type</code> on request Accept header (Content Negotiation) to allow only your supported format (e.g. <code>application/xml</code>, <code>application/json</code>, etc.) and respond with <code>406 Not Acceptable</code> response if not matched.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134db",
+          "label": "Validate content-type of posted data as you accept",
+          "flexibleText": "<p>Validate <code>content-type</code> of posted data as you accept (e.g. <code>application/x-www-form-urlencoded</code>, <code>multipart/form-data</code>, <code>application/json</code>, etc.).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134da",
+          "label": "Validate user input",
+          "flexibleText": "<p>Validate user input to avoid common vulnerabilities (e.g. <code>XSS</code>, <code>SQL-Injection</code>, <code>Remote Code Execution</code>, etc.).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d9",
+          "label": "Don't use any sensitive data in the URL",
+          "flexibleText": "<p>Don't use any sensitive data (<code>credentials</code>, <code>Passwords</code>, <code>security tokens</code>, or <code>API keys</code>) in the URL, but use standard Authorization header.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d8",
+          "label": "Use an API Gateway service to enable caching",
+          "flexibleText": "<p>Use an API Gateway service to enable caching, Rate Limit policies (e.g. <code>Quota</code>, <code>Spike Arrest</code>, or <code>Concurrent Rate Limit</code>) and deploy APIs resources dynamically.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134d7",
+      "title": "Input",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d6",
+          "label": "Check all endpoints are protected",
+          "flexibleText": "<p>Check if all the endpoints are protected behind authentication to avoid broken authentication process.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d5",
+          "label": "Use generic resources",
+          "flexibleText": "<p>User own resource ID should be avoided. Use <code>/me/orders</code> instead of <code>/user/654321/orders</code>.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d4",
+          "label": "Use random IDs",
+          "flexibleText": "<p>Don't auto-increment IDs. Use <code>UUID</code> instead.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d3",
+          "label": "Use a CDN",
+          "flexibleText": "<p>Use a CDN for file uploads.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d2",
+          "label": "Use Workers for background processing",
+          "flexibleText": "<p>If you are dealing with huge amount of data, use Workers and Queues to process as much as possible in background and return response fast to avoid HTTP Blocking.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d1",
+          "label": "Disable DEBUG mode",
+          "flexibleText": "<p>Do not forget to turn the DEBUG mode OFF.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134d0",
+          "label": "Disable parsing entity",
+          "flexibleText": "<p>If you are parsing XML files, make sure entity parsing is not enabled to avoid <code>XXE</code> (XML external entity attack).</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134cf",
+          "label": "Disable entity expansion",
+          "flexibleText": "<p>If you are parsing XML files, make sure entity expansion is not enabled to avoid <code>Billion Laughs/XML bomb</code> via exponential entity expansion attack.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134ce",
+      "title": "Processing",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134cd",
+          "label": "Set X-Content-Type-Options header",
+          "flexibleText": "<p>Send <code>X-Content-Type-Options: nosniff</code> header.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134cc",
+          "label": "Set X-Frame-Options header",
+          "flexibleText": "<p>Send <code>X-Frame-Options: deny</code> header.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134cb",
+          "label": "Set Content-Security-Policy header",
+          "flexibleText": "<p>Send <code>Content-Security-Policy: default-src 'none'</code> header.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134ca",
+          "label": "Remove fingerprinting headers",
+          "flexibleText": "<p>Remove fingerprinting headers - <code>X-Powered-By</code>, <code>Server</code>, <code>X-AspNet-Version</code>, etc.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c9",
+          "label": "Force content-type for your response",
+          "flexibleText": "<p>Force <code>content-type</code> for your response, if you return <code>application/json</code> then your response <code>content-type</code> is <code>application/json</code>.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c8",
+          "label": "Don't return sensitive data",
+          "flexibleText": "<p>Don't return sensitive data like <code>credentials</code>, <code>Passwords</code>, or <code>security tokens</code>.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c7",
+          "label": "Return the proper status code",
+          "flexibleText": "<p>Return the proper status code according to the operation completed. (e.g. <code>200 OK</code>, <code>400 Bad Request</code>, <code>401 Unauthorized</code>, <code>405 Method Not Allowed</code>, etc.).</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134c6",
+      "title": "Output",
+      "flexibleText": ""
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c5",
+          "label": "Audit your design",
+          "flexibleText": "<p>Audit your design and implementation with unit/integration tests coverage.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c4",
+          "label": "Don't trust yourself",
+          "flexibleText": "<p>Use a code review process and disregard self-approval.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c3",
+          "label": "Use AV software",
+          "flexibleText": "<p>Ensure that all components of your services are statically scanned by AV software before pushing to production, including vendor libraries and other dependencies.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5c56e7b35830f6004a5134c2",
+          "label": "Have a rollback solution",
+          "flexibleText": "<p>Design a rollback solution for deployments.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5c56e7b35830f6004a5134c1",
+      "title": "CI and CD",
+      "flexibleText": ""
+    }
+  ],
+  "__v": 6
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ch.ckl.st-community",
+  "version": "1.0.0",
+  "description": "ch.ckl.st community resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablooliva/ch.ckl.st-community.git"
+  },
+  "author": "pablo oliva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablooliva/ch.ckl.st-community/issues"
+  },
+  "homepage": "https://github.com/pablooliva/ch.ckl.st-community#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}

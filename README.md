@@ -1,6 +1,6 @@
 # ch.ckl.st community
 
-This community repository is for sharing various resources used in the process of creating the ch.ckl.st apps.
+This community repository is for sharing various resources used in the process of developing the ch.ckl.st apps.
 
 ## About
 
