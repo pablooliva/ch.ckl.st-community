@@ -106,7 +106,7 @@
 - [ ] Make your resume easy to skim
       <p>Most resumes are not read, but rather quickly reviewed for relevant information.</p><p><br></p>
 
-- [ ] Place the most important information should be closest to the top
+- [ ] Place the most important information closest to the top
       <p>This is dependent on what the company that you are applying for considers important.</p><p><br></p>
 
 - [ ] Format - sequence
