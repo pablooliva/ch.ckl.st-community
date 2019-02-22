@@ -1,7 +1,8 @@
 /*
 Call this file using node from a directory within the repo, i.e. $ node utils/write-to-md.js -s fileName.json
 The -s flag denotes the source file to use, followed by the JSON file to parse into md format.
-The JSON files need to be stored in /checklists/source-files/.
+The JSON files need to be stored in /checklists/source-files/ and when called from the command line, do not
+require the path, just the filename.
 The .md filed created will be saved to /checklist/result-files/.
  */
 
