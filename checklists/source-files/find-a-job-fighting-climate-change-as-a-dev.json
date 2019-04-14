@@ -1,388 +1,395 @@
 {
-    "parentChecklist": "5c6adbdf0b3726004a02ee21",
-    "active": true,
-    "public": true,
-    "created": "2019-03-07T20:06:57.900Z",
-    "updated": "2019-03-07T20:06:57.900Z",
-    "documentTags": [
+  "parentChecklist": "5c6adbdf0b3726004a02ee21",
+  "active": true,
+  "public": true,
+  "created": "2019-03-07T20:06:57.900Z",
+  "updated": "2019-03-07T20:06:57.900Z",
+  "documentTags": [
+    {
+      "active": true,
+      "created": "2018-12-31T12:33:15.825Z",
+      "_id": "5c2e45e35205c0004ad11b4a",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "webdev",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-02-03T16:50:14.752Z",
+      "_id": "5c6ad1ae0b3726004a02ee1d",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "job",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-02-03T16:50:14.752Z",
+      "_id": "5c6ad1b20b3726004a02ee1e",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "work",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-02-03T16:50:14.752Z",
+      "_id": "5c6ad1b70b3726004a02ee1f",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "software-developer",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2019-02-03T16:50:14.752Z",
+      "_id": "5c6ad1bd0b3726004a02ee20",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "software",
+      "__v": 0
+    },
+    {
+      "active": true,
+      "created": "2018-11-12T13:18:36.875Z",
+      "_id": "5bedadf141b36800db44faa5",
+      "owner": "5beda2b541b36800db44faa4",
+      "label": "climate change",
+      "__v": 0
+    }
+  ],
+  "_id": "5c9007a24c6f1b004a6098ae",
+  "owner": "5beda2b541b36800db44faa4",
+  "documentTitle": "Find a Job Fighting Climate Change as a Software Developer",
+  "flexibleText": "<p><img src=\"https://api.ch.ckl.st/user-images/climate-change-shield(3).svg-1553186455290.svg\"></p><h2>Who this is For</h2><p>This step-by-step guide is useful primarily for anyone with work experience in software development who is interested in using their skills to contribute to the fight against climate change, in specific. The steps here could also be adapted to finding work in any niche industry that may offer you more meaning.</p><h2>What to Expect</h2><p>Finding a job that is meaningful requires a significant amount of more work than what is involved in a typical job search. By typical job search I mean when most people are ready to find a new job, they start with updating their resume and then proceed to blast it out in response to any job posting online that seems like a potential good fit.</p><p>On the other hand, <strong>if you want to find a job that has more meaning, will make a difference in the fight against climate change and will be a right fit for you, then you need to prepare and be more strategic</strong>. This checklist guides you through some steps that will make you more effective in finding and securing this type of job.</p><h3>On GitHub</h3><p>This checklist is also&nbsp;available on GitHub as a Markdown file&nbsp;so that you can:</p><ol><li><a href=\"https://github.com/pablooliva/ch.ckl.st-community/blob/master/checklists/result-files/5c9007a24c6f1b004a6098ae_Find_a_Job_Fighting_Climate_Change_as_a_Software_Developer.md\" target=\"_blank\">Submit corrections, additions, or improvements as a pull request</a></li><li><a href=\"https://raw.githubusercontent.com/pablooliva/ch.ckl.st-community/master/checklists/result-files/5c9007a24c6f1b004a6098ae_Find_a_Job_Fighting_Climate_Change_as_a_Software_Developer.md\" target=\"_blank\">Copy and paste the raw Markdown into a gist to use on your own</a></li></ol>",
+  "checklistTags": [],
+  "customCss": "",
+  "sections": [
+    {
+      "checklistItems": [
         {
-            "active": true,
-            "created": "2018-12-31T12:33:15.825Z",
-            "_id": "5c2e45e35205c0004ad11b4a",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "webdev",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe8",
+          "label": "Location",
+          "flexibleText": "<p>Ideally, where should the company be located?</p><ol><li>How far are you willing to travel to get to work every day?</li><li>Does the company need to be near public transportation or highways?</li><li>Does the company need to be near anything else; i.e. restaurants, a child's school, a parent's house?</li></ol>",
+          "checked": false
         },
         {
-            "active": true,
-            "created": "2019-02-03T16:50:14.752Z",
-            "_id": "5c6ad1ae0b3726004a02ee1d",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "job",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe7",
+          "label": "Salary",
+          "flexibleText": "<p>What is the minimum salary you need to be offered to take a job? During negotiations, never start with your minimum, but it is good to know in your head what your minimum is.</p><p>Is your salary expectation reasonable?</p><ol><li><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a> - Glassdoor will give you an average salary for developers in your area. Entry-level developers make about 25% less and experienced developers can make 20% above the average.</li><li><a href=\"https://www.payscale.com\" target=\"_blank\">https://www.payscale.com</a></li><li><a href=\"https://www.gehalt.de/\" target=\"_blank\">https://www.gehalt.de/</a></li><li><a href=\"https://www.indeed.com/salaries\" target=\"_blank\">https://www.indeed.com/salaries</a></li><li><a href=\"https://www.linkedin.com/salary/\" target=\"_blank\">https://www.linkedin.com/salary/</a></li></ol><p>Salary is relative to:</p><ol><li>Cost of living: <a href=\"https://www.numbeo.com/cost-of-living/\" target=\"_blank\">https://www.numbeo.com/cost-of-living/</a></li><li>Taxes paid: <a href=\"https://www.brutto-netto-rechner.info/gehalt/lohnsteuerrechner.php\" target=\"_blank\">https://www.brutto-netto-rechner.info/gehalt/lohnsteuerrechner.php</a></li></ol><p><br></p>",
+          "checked": false
         },
         {
-            "active": true,
-            "created": "2019-02-03T16:50:14.752Z",
-            "_id": "5c6ad1b20b3726004a02ee1e",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "work",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe6",
+          "label": "Equity",
+          "flexibleText": "<ol><li>How much equity is the company offering?</li><li>Is the amount on par with the market or above, given the position and the stage of the company?</li></ol>",
+          "checked": false
         },
         {
-            "active": true,
-            "created": "2019-02-03T16:50:14.752Z",
-            "_id": "5c6ad1b70b3726004a02ee1f",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "software-developer",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe5",
+          "label": "Benefits",
+          "flexibleText": "<p>What benefits are important to you; i.e. vacation and time off, retirement, health benefits?</p>",
+          "checked": false
         },
         {
-            "active": true,
-            "created": "2019-02-03T16:50:14.752Z",
-            "_id": "5c6ad1bd0b3726004a02ee20",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "software",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe4",
+          "label": "Technology",
+          "flexibleText": "<ol><li>What technologies do you want to work with?</li><li>Would you like to continue working with technology that you are familiar with or do you want to branch out into new areas?</li><li>As important, are there any technologies that make you cringe when you think about working with them?</li></ol><p><br></p>",
+          "checked": false
         },
         {
-            "active": true,
-            "created": "2018-11-12T13:18:36.875Z",
-            "_id": "5bedadf141b36800db44faa5",
-            "owner": "5beda2b541b36800db44faa4",
-            "label": "climate change",
-            "__v": 0
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe3",
+          "label": "Job expectations and internal processes",
+          "flexibleText": "<ol><li>Are there any measures of productivity that are in line with making you feel productive, i.e. finishing all your tasks in a given sprint?</li><li>These days most teams are managed via a scrum process, in sprints, but teams have adapted these concepts to suit their needs. What aspects of a development workflow are important to you?</li><li>Meetings, daily standups, and presentations: what volume and frequency are a good fit for you?</li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe2",
+          "label": "Growth and personal development",
+          "flexibleText": "<ol><li>The software development industry moves at a rapid pace. Is support from the company for continuous personal development important to you?</li><li>Do you want to ascend into a management position or grow from a front-end developer to a full-stack developer?</li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe1",
+          "label": "Company funding and stage",
+          "flexibleText": "<ol><li>Is the company well-funded?</li><li>What’s the stage of the company?</li><li>Does the stage of the company match my ideal work environment?</li></ol>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fe0",
+          "label": "Culture and environment",
+          "flexibleText": "<ol><li>Do you want a volatile but exciting startup environment where your contributions make a larger impact, or is a more established and stable company more suitable for you?</li><li>How important is it that a company make a difference in a particular field or social issue, i.e. fighting to stop climate change?</li><li>Are working hours flexible? Can you work from home?</li></ol>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fdf",
+          "label": "Management and leadership",
+          "flexibleText": "<ol><li>Which bosses have you thrived under and which ones you hated working for. What attributes did they have? What approaches to work and assigning work did they have?</li><li>Also, consider how you work. Do you prefer to be given large tasks and the freedom to break them down and figure out how to approach them on your own? Or, do you want your boss to give you more fine-grained instructions? Are you looking for a coach or just someone who keeps things humming along with minimal involvement?</li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fde",
+          "label": "Co-workers",
+          "flexibleText": "<ol><li>Is it important to you to be a part of a team atmosphere?</li><li>Are you looking to be a mentor or to be mentored?</li></ol><p><br></p>",
+          "checked": false
         }
-    ],
-    "_id": "5c9007a24c6f1b004a6098ae",
-    "owner": "5beda2b541b36800db44faa4",
-    "documentTitle": "Find a Job Fighting Climate Change as a Software Developer",
-    "flexibleText": "<p><img src=\"https://api.ch.ckl.st/user-images/climate-change-shield(3).svg-1553186455290.svg\"></p><h2>Who this is For</h2><p>This step-by-step guide is useful primarily for anyone with work experience in software development who is interested in using their skills to contribute to the fight against climate change, in specific. The steps here could also be adapted to finding work in any niche industry that may offer you more meaning.</p><h2>What to Expect</h2><p>Finding a job that is meaningful requires a significant amount of more work than what is involved in a typical job search. By typical job search I mean when most people are ready to find a new job, they start with updating their resume and then proceed to blast it out in response to any job posting online that seems like a potential good fit.</p><p>On the other hand, <strong>if you want to find a job that has more meaning, will make a difference in the fight against climate change and will be a right fit for you, then you need to prepare and be more strategic</strong>. This checklist guides you through some steps that will make you more effective in finding and securing this type of job.</p><h3>On GitHub</h3><p>This checklist is also&nbsp;available on GitHub as a Markdown file&nbsp;so that you can:</p><ol><li>Submit corrections, additions, or improvements as a pull request</li><li>Copy and paste the raw Markdown into a gist to use on your own</li></ol>",
-    "checklistTags": [],
-    "customCss": "",
-    "sections": [
+      ],
+      "_id": "5cb35a774c6f1b004a609fdd",
+      "title": "Step 1: Create a Target",
+      "flexibleText": "<p><strong>The first step in finding the right job is to define what \"right\" means.</strong> If you are using this checklist then you are interested in fighting climate change, which is great, and this will be one of the attributes that you will look for in a company. In addition to that though, you should also think about what other qualities a company or organization needs to have in order to make your employment enjoyable and fulfilling. This is what this section helps you explore.</p><h2>Use the Companion Spreadsheet</h2><p>Available on <a href=\"https://www.dropbox.com/s/31fuk5sydgioh8b/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx?dl=0\" target=\"_blank\">Dropbox</a> and <a href=\"https://github.com/pablooliva/ch.ckl.st-community/blob/master/docs/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx\" target=\"_blank\">GitHub</a>.</p><p>The companion spreadsheet helps you rank the attributes that are important to you, which is what we are exploring in this Step. Later, in Step 9, you will use these attributes to evaluate your offers.</p><p>The companion spreadsheet also helps you organize your research in Steps 2 and 3. This research is not only important to determine whether the company or organization meets your requirements, but it will also help you customize your CV in Step 5 and cover letter in Step 6.</p>"
+    },
+    {
+      "checklistItems": [
         {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f8b",
-                    "label": "Location",
-                    "flexibleText": "<p>Ideally, where should the company be located?</p><ol><li>How far are you willing to travel to get to work every day?</li><li>Does the company need to be near public transportation or highways?</li><li>Does the company need to be near anything else; i.e. restaurants, a child's school, a parent's house?</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f8a",
-                    "label": "Salary",
-                    "flexibleText": "<p>What is the minimum salary you need to be offered to take a job? During negotiations, never start with your minimum, but it is good to know in your head what your minimum is.</p><p>Is your salary expectation reasonable?</p><ol><li><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a> - Glassdoor will give you an average salary for developers in your area. Entry-level developers make about 25% less and experienced developers can make 20% above the average.</li><li><a href=\"https://www.payscale.com\" target=\"_blank\">https://www.payscale.com</a></li><li><a href=\"https://www.gehalt.de/\" target=\"_blank\">https://www.gehalt.de/</a></li><li><a href=\"https://www.indeed.com/salaries\" target=\"_blank\">https://www.indeed.com/salaries</a></li><li><a href=\"https://www.linkedin.com/salary/\" target=\"_blank\">https://www.linkedin.com/salary/</a></li></ol><p>Salary is relative to:</p><ol><li>Cost of living: <a href=\"https://www.numbeo.com/cost-of-living/\" target=\"_blank\">https://www.numbeo.com/cost-of-living/</a></li><li>Taxes paid: <a href=\"https://www.brutto-netto-rechner.info/gehalt/lohnsteuerrechner.php\" target=\"_blank\">https://www.brutto-netto-rechner.info/gehalt/lohnsteuerrechner.php</a></li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f89",
-                    "label": "Equity",
-                    "flexibleText": "<ol><li>How much equity is the company offering?</li><li>Is the amount on par with the market or above, given the position and the stage of the company?</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f88",
-                    "label": "Benefits",
-                    "flexibleText": "<p>What benefits are important to you; i.e. vacation and time off, retirement, health benefits?</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f87",
-                    "label": "Technology",
-                    "flexibleText": "<ol><li>What technologies do you want to work with?</li><li>Would you like to continue working with technology that you are familiar with or do you want to branch out into new areas?</li><li>As important, are there any technologies that make you cringe when you think about working with them?</li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f86",
-                    "label": "Job expectations and internal processes",
-                    "flexibleText": "<ol><li>Are there any measures of productivity that are in line with making you feel productive, i.e. finishing all your tasks in a given sprint?</li><li>These days most teams are managed via a scrum process, in sprints, but teams have adapted these concepts to suit their needs. What aspects of a development workflow are important to you?</li><li>Meetings, daily standups, and presentations: what volume and frequency are a good fit for you?</li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f85",
-                    "label": "Growth and personal development",
-                    "flexibleText": "<ol><li>The software development industry moves at a rapid pace. Is support from the company for continuous personal development important to you?</li><li>Do you want to ascend into a management position or grow from a front-end developer to a full-stack developer?</li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f84",
-                    "label": "Company funding and stage",
-                    "flexibleText": "<ol><li>Is the company well-funded?</li><li>What’s the stage of the company?</li><li>Does the stage of the company match my ideal work environment?</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f83",
-                    "label": "Culture and environment",
-                    "flexibleText": "<ol><li>Do you want a volatile but exciting startup environment where your contributions make a larger impact, or is a more established and stable company more suitable for you?</li><li>How important is it that a company make a difference in a particular field or social issue, i.e. fighting to stop climate change?</li><li>Are working hours flexible? Can you work from home?</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f82",
-                    "label": "Management and leadership",
-                    "flexibleText": "<ol><li>Which bosses have you thrived under and which ones you hated working for. What attributes did they have? What approaches to work and assigning work did they have?</li><li>Also, consider how you work. Do you prefer to be given large tasks and the freedom to break them down and figure out how to approach them on your own? Or, do you want your boss to give you more fine-grained instructions? Are you looking for a coach or just someone who keeps things humming along with minimal involvement?</li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f81",
-                    "label": "Co-workers",
-                    "flexibleText": "<ol><li>Is it important to you to be a part of a team atmosphere?</li><li>Are you looking to be a mentor or to be mentored?</li></ol><p><br></p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f80",
-            "title": "Step 1: Create a Target",
-            "flexibleText": "<p><strong>The first step in finding the right job is to define what \"right\" means.</strong> If you are using this checklist then you are interested in fighting climate change, which is great, and this will be one of the attributes that you will look for in a company. In addition to that though, you should also think about what other qualities a company or organization needs to have in order to make your employment enjoyable and fulfilling. This is what this section helps you explore.</p><h2>Use the Companion Spreadsheet</h2><p>Available on <a href=\"https://www.dropbox.com/s/31fuk5sydgioh8b/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx?dl=0\" target=\"_blank\">Dropbox</a> and <a href=\"https://github.com/pablooliva/ch.ckl.st-community/blob/master/docs/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx\" target=\"_blank\">GitHub</a>.</p><p>The companion spreadsheet helps you rank the attributes that are important to you, which is what we are exploring in this Step. Later, in Step 9, you will use these attributes to evaluate your offers.</p><p>The companion spreadsheet also helps you organize your research in Steps 2 and 3. This research is not only important to determine whether the company or organization meets your requirements, but it will also help you customize your CV in Step 5 and cover letter in Step 6.</p>"
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fdc",
+          "label": "Find a company - job boards",
+          "flexibleText": "<p>Perform direct and effective searches for \"green\" companies looking for software developers by using these resources.</p><h3>Effective Job Boards</h3><p>These are focused on the German market, because I live in Germany, but a quick search online for \"green jobs\" or \"sustainable jobs\" should provide you with results for your target market/country.</p><ol><li><a href=\"https://goodjobs.eu/de\" target=\"_blank\">https://goodjobs.eu/de</a></li><li><a href=\"https://www.greenjobs.de/\" target=\"_blank\">https://www.greenjobs.de</a> (includes results for <a href=\"https://www.eejobs.de\" target=\"_blank\">https://www.eejobs.de</a>)</li><li><a href=\"https://www.jobverde.de\" target=\"_blank\">https://www.jobverde.de</a> (not all results are necessarily \"green jobs\")</li><li><a href=\"https://impactcoder.com/entwickler-jobs-mit-sinn.html\" target=\"_blank\">https://impactcoder.com/entwickler-jobs-mit-sinn.html</a></li><li><a href=\"http://jobs.windindustrie-in-deutschland.de/\" target=\"_blank\">http://jobs.windindustrie-in-deutschland.de</a> (sourced from StepStone, see more below)</li></ol><h3>Popular but Less Effective Job Boards</h3><p><strong>The only popular job board that is useful is StepStone</strong> (<a href=\"https://www.stepstone.com/\" target=\"_blank\">US</a>, <a href=\"https://www.stepstone.de/\" target=\"_blank\">DE</a>), due to its advance filtering by Industry, such as \"Public Service\" and \"Energy.\"</p><p>The other popular options are not very effective for finding a company or organization that is invested in a social, economic, or environmental justice work because they are focused on other types of customers.</p><p>These job boards <strong>offered poor results</strong>:</p><ol><li><a href=\"https://www.indeed.com\" target=\"_blank\">https://www.indeed.com</a></li><li><a href=\"https://www.monster.com\" target=\"_blank\">https://www.monster.com</a></li><li><a href=\"https://www.careerjet.com\" target=\"_blank\">https://www.careerjet.com</a> (the site did offer filters, but they did not actually filter the results)</li></ol>",
+          "checked": false
         },
         {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f7f",
-                    "label": "Find a company - job boards",
-                    "flexibleText": "<p>Perform direct and effective searches for \"green\" companies looking for software developers by using these resources.</p><h3>Effective Job Boards</h3><p>These are focused on the German market, because I live in Germany, but a quick search online for \"green jobs\" or \"sustainable jobs\" should provide you with results for your target market/country.</p><ol><li><a href=\"https://goodjobs.eu/de\" target=\"_blank\">https://goodjobs.eu/de</a></li><li><a href=\"https://www.greenjobs.de/\" target=\"_blank\">https://www.greenjobs.de</a> (includes results for <a href=\"https://www.eejobs.de\" target=\"_blank\">https://www.eejobs.de</a>)</li><li><a href=\"https://www.jobverde.de\" target=\"_blank\">https://www.jobverde.de</a> (not all results are necessarily \"green jobs\")</li><li><a href=\"https://impactcoder.com/entwickler-jobs-mit-sinn.html\" target=\"_blank\">https://impactcoder.com/entwickler-jobs-mit-sinn.html</a></li><li><a href=\"http://jobs.windindustrie-in-deutschland.de/\" target=\"_blank\">http://jobs.windindustrie-in-deutschland.de</a> (sourced from StepStone, see more below)</li></ol><h3>Popular but Less Effective Job Boards</h3><p><strong>The only popular job board that is useful is StepStone</strong> (<a href=\"https://www.stepstone.com/\" target=\"_blank\">US</a>, <a href=\"https://www.stepstone.de/\" target=\"_blank\">DE</a>), due to its advance filtering by Industry, such as \"Public Service\" and \"Energy.\"</p><p>The other popular options are not very effective for finding a company or organization that is invested in a social, economic, or environmental justice work because they are focused on other types of customers.</p><p>These job boards <strong>offered poor results</strong>:</p><ol><li><a href=\"https://www.indeed.com\" target=\"_blank\">https://www.indeed.com</a></li><li><a href=\"https://www.monster.com\" target=\"_blank\">https://www.monster.com</a></li><li><a href=\"https://www.careerjet.com\" target=\"_blank\">https://www.careerjet.com</a> (the site did offer filters, but they did not actually filter the results)</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f7e",
-                    "label": "Find a company - alternative methods",
-                    "flexibleText": "<p>These are other methods that you can use to find a target company to apply to. These tactics will not give you immediate results, but they will provide more opportunities to those who are patient and committed to finding the right job.</p><p>By doing a little more research you can proactively solicit companies you find here for work. In your cover letter you can explain what appealed to you, what it is you are looking for, and finally, if they do not have a position for you, if they can offer any references for a company or organization that may offer you work as a software developer.</p><h3>Job Boards as Research Tools</h3><p>These job boards will not produce direct results for software developer jobs, but you can look at the companies posting ads and investigate whether they seem like a good fit.</p><ol><li><a href=\"https://www.talents4good.org/jobs-aktuell/\" target=\"_blank\">https://www.talents4good.org/jobs-aktuell/</a></li><li><a href=\"https://www.nachhaltigejobs.de/jobs\" target=\"_blank\">https://www.nachhaltigejobs.de/jobs</a></li><li><a href=\"https://www.tbd.community/de/jobs\" target=\"_blank\">https://www.tbd.community/de/jobs</a></li></ol><h3>App Stores</h3><p>Search for applications that can help the environment and alleviate climate change, then look into the companies that produce these apps.</p><ol><li><a href=\"https://play.google.com/store/apps\" target=\"_blank\">https://play.google.com/store/apps</a></li><li><a href=\"https://theappstore.org/\" target=\"_blank\">https://theappstore.org/</a></li><li><a href=\"https://www.microsoft.com/en-us/search/shop/apps?q=sustainability\" target=\"_blank\">https://www.microsoft.com/en-us/search/shop/apps?q=sustainability</a></li><li><a href=\"https://www.softguide.de/software/suche/s/Umwelt\" target=\"_blank\">https://www.softguide.de/software/suche/s/Umwelt</a></li></ol><h3>Directories</h3><ol><li><a href=\"https://oekoportal.de/\" target=\"_blank\">https://oekoportal.de/</a></li><li><a href=\"http://eco-innovation-alliance.com/#mitglieder\" target=\"_blank\">http://eco-innovation-alliance.com/#mitglieder</a></li></ol><h3>Newsletters and Publications</h3><p>These resources are two-fold. First, the newsletter or publication could be a direct source of employment. Second, the news published often feature companies doing innovative things in the industry. Take note of these companies and look into them further.</p><ol><li><a href=\"https://www.energynet.de/\" target=\"_blank\">https://www.energynet.de/</a></li><li><a href=\"https://www.cleanenergywire.org/\" target=\"_blank\">https://www.cleanenergywire.org/</a></li><li><a href=\"https://www.energieblogger.net/\" target=\"_blank\">https://www.energieblogger.net/</a></li><li><a href=\"http://www.bmwi-energiewende.de/EWD/Navigation/EN/Service/Newsletter/newsletter_anmelden.html\" target=\"_blank\">http://www.bmwi-energiewende.de</a></li><li><a href=\"https://www.umweltbundesamt.de/en/service/newsletter\" target=\"_blank\">https://www.umweltbundesamt.de/en/service/newsletter</a></li></ol><h3>Organizations</h3><ol><li><a href=\"https://www.deutsches-klima-konsortium.de/en/startseite.html\" target=\"_blank\">https://www.deutsches-klima-konsortium.de/en/startseite.html</a></li><li><a href=\"https://europeanclimate.org/\" target=\"_blank\">https://europeanclimate.org/</a></li><li><a href=\"https://www.agora-energiewende.de/\" target=\"_blank\">https://www.agora-energiewende.de/</a></li><li><a href=\"https://www.boell.de/en\" target=\"_blank\">https://www.boell.de/en</a></li><li><a href=\"https://lessthan2.com\" target=\"_blank\">https://lessthan2.com</a></li><li><a href=\"https://www.duh.de\" target=\"_blank\">https://www.duh.de</a></li><li><a href=\"https://www.nabu.de\" target=\"_blank\">https://www.nabu.de</a></li><li><a href=\"https://www.germanwatch.org/de\" target=\"_blank\">https://www.germanwatch.org/de</a></li><li><a href=\"http://www.foes.de\" target=\"_blank\">http://www.foes.de</a></li><li><a href=\"https://www.vcd.org\" target=\"_blank\">https://www.vcd.org</a></li><li><a href=\"https://www.klima-allianz.de\" target=\"_blank\">https://www.klima-allianz.de</a></li><li><a href=\"https://www.deneff.org\" target=\"_blank\">https://www.deneff.org</a></li><li><a href=\"https://www.bmwi.de/Redaktion/EN/Dossier/energy-transition.html\" target=\"_blank\">https://www.bmwi.de/Redaktion/EN/Dossier/energy-transition.html</a> - also provides <span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 33, 33);\">a list of the key contacts in government, business and society: </span><a href=\"https://www.auswaertiges-amt.de/blob/216910/7a1be4e46851e6912959e89bc9cd90ee/energiewendewhoiswho-data.pdf\" target=\"_blank\">https://www.auswaertiges-amt.de</a></li><li><a href=\"https://www.umweltbundesamt.de/en\" target=\"_blank\">https://www.umweltbundesamt.de/en</a></li><li><a href=\"https://www.dena.de/en/home/\" target=\"_blank\">https://www.dena.de/en/home/</a></li><li><a href=\"https://www.borderstep.org/\" target=\"_blank\">https://www.borderstep.org/</a></li></ol><h3>Social Media</h3><ol><li><a href=\"https://twitter.com\" target=\"_blank\">Twitter</a> - search for topic related hashtags, such as \"#cleanenergy,\" and then look at which companies are promoting themselves.</li><li><a href=\"https://reddit.com\" target=\"_blank\">Reddit</a> - offers subreddits/communities on every topic that you can think of. The posts that appear on these subreddits can either offer you additional keywords to search for or even provide companies directly. Subreddits often link to other related subreddits, so this is useful as a tool for brainstorming. For example, on <a href=\"https://old.reddit.com/r/ZeroWaste/\" target=\"_blank\">https://old.reddit.com/r/ZeroWaste/</a>, you will find a list of over 40 related subreddits to explore. This can give you ideas for online searches that you can perform for companies working in these spaces.</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f7d",
-                    "label": "Culture and environment",
-                    "flexibleText": "<p>Reviews by previous or current employees are available via these sites. You should pay attention to the 1 and 5 star ratings to get a sense of the complaints and the things employees are satisfied with.</p><ol><li><a href=\"https://www.kununu.com/\" target=\"_blank\">https://www.kununu.com/</a></li><li><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a></li></ol><p>Company websites are usually directed towards customers as an audience, but the communication style can tell you something about the company culture.</p><ol><li>The about page can also tell you more about their core values.</li><li>Who is the majority owner of the company? Who is on the board? What are they trying to accomplish?</li></ol><p>Social Media</p><ol><li>Review both the official company accounts for tone, style and content. Are they stiff sounding or do they use a softer more relaxed tone?</li><li>Search for any posts by the public referencing the company and evaluate what they are saying about the company. Are they happy customers? Are there any common complaints?</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f7c",
-                    "label": "Technology and job expectations",
-                    "flexibleText": "<p><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a> also has an interviews section which has information provided by people who have interviewed with the company. Company interviews are designed to figure out if the applicant is a good fit. If you can glean information about what it is the company is looking for and put that it into your resume, you will certainly stand ou</p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f7b",
-            "title": "Step 2: Initial Research",
-            "flexibleText": "<p>After you have defined your target, we can turn to doing the research for finding a company that fits your criteria.</p><p>When researching companies, you are not just looking for a right fit, but you should also be keen to finding hints about what it is that the company is looking for in a potential new hire. After all, the company does not just need to fit you, but management also needs to see that you are a good fit for the company or organization. Use these hints and work them into your resume (Step 5) or cover letter (Step 6) to increase your appeal.</p>"
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fdb",
+          "label": "Find a company - alternative methods",
+          "flexibleText": "<p>These are other methods that you can use to find a target company to apply to. These tactics will not give you immediate results, but they will provide more opportunities to those who are patient and committed to finding the right job.</p><p>By doing a little more research you can proactively solicit companies you find here for work. In your cover letter you can explain what appealed to you, what it is you are looking for, and finally, if they do not have a position for you, if they can offer any references for a company or organization that may offer you work as a software developer.</p><h3>Job Boards as Research Tools</h3><p>These job boards will not produce direct results for software developer jobs, but you can look at the companies posting ads and investigate whether they seem like a good fit.</p><ol><li><a href=\"https://www.talents4good.org/jobs-aktuell/\" target=\"_blank\">https://www.talents4good.org/jobs-aktuell/</a></li><li><a href=\"https://www.nachhaltigejobs.de/jobs\" target=\"_blank\">https://www.nachhaltigejobs.de/jobs</a></li><li><a href=\"https://www.tbd.community/de/jobs\" target=\"_blank\">https://www.tbd.community/de/jobs</a></li></ol><h3>App Stores</h3><p>Search for applications that can help the environment and alleviate climate change, then look into the companies that produce these apps.</p><ol><li><a href=\"https://play.google.com/store/apps\" target=\"_blank\">https://play.google.com/store/apps</a></li><li><a href=\"https://theappstore.org/\" target=\"_blank\">https://theappstore.org/</a></li><li><a href=\"https://www.microsoft.com/en-us/search/shop/apps?q=sustainability\" target=\"_blank\">https://www.microsoft.com/en-us/search/shop/apps?q=sustainability</a></li><li><a href=\"https://www.softguide.de/software/suche/s/Umwelt\" target=\"_blank\">https://www.softguide.de/software/suche/s/Umwelt</a></li></ol><h3>Directories</h3><ol><li><a href=\"https://oekoportal.de/\" target=\"_blank\">https://oekoportal.de/</a></li><li><a href=\"http://eco-innovation-alliance.com/#mitglieder\" target=\"_blank\">http://eco-innovation-alliance.com/#mitglieder</a></li></ol><h3>Newsletters and Publications</h3><p>These resources are two-fold. First, the newsletter or publication could be a direct source of employment. Second, the news published often feature companies doing innovative things in the industry. Take note of these companies and look into them further.</p><ol><li><a href=\"https://www.energynet.de/\" target=\"_blank\">https://www.energynet.de/</a></li><li><a href=\"https://www.cleanenergywire.org/\" target=\"_blank\">https://www.cleanenergywire.org/</a></li><li><a href=\"https://www.energieblogger.net/\" target=\"_blank\">https://www.energieblogger.net/</a></li><li><a href=\"http://www.bmwi-energiewende.de/EWD/Navigation/EN/Service/Newsletter/newsletter_anmelden.html\" target=\"_blank\">http://www.bmwi-energiewende.de</a></li><li><a href=\"https://www.umweltbundesamt.de/en/service/newsletter\" target=\"_blank\">https://www.umweltbundesamt.de/en/service/newsletter</a></li></ol><h3>Organizations</h3><ol><li><a href=\"https://www.deutsches-klima-konsortium.de/en/startseite.html\" target=\"_blank\">https://www.deutsches-klima-konsortium.de/en/startseite.html</a></li><li><a href=\"https://europeanclimate.org/\" target=\"_blank\">https://europeanclimate.org/</a></li><li><a href=\"https://www.agora-energiewende.de/\" target=\"_blank\">https://www.agora-energiewende.de/</a></li><li><a href=\"https://www.boell.de/en\" target=\"_blank\">https://www.boell.de/en</a></li><li><a href=\"https://lessthan2.com\" target=\"_blank\">https://lessthan2.com</a></li><li><a href=\"https://www.duh.de\" target=\"_blank\">https://www.duh.de</a></li><li><a href=\"https://www.nabu.de\" target=\"_blank\">https://www.nabu.de</a></li><li><a href=\"https://www.germanwatch.org/de\" target=\"_blank\">https://www.germanwatch.org/de</a></li><li><a href=\"http://www.foes.de\" target=\"_blank\">http://www.foes.de</a></li><li><a href=\"https://www.vcd.org\" target=\"_blank\">https://www.vcd.org</a></li><li><a href=\"https://www.klima-allianz.de\" target=\"_blank\">https://www.klima-allianz.de</a></li><li><a href=\"https://www.deneff.org\" target=\"_blank\">https://www.deneff.org</a></li><li><a href=\"https://www.bmwi.de/Redaktion/EN/Dossier/energy-transition.html\" target=\"_blank\">https://www.bmwi.de/Redaktion/EN/Dossier/energy-transition.html</a> - also provides <span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 33, 33);\">a list of the key contacts in government, business and society: </span><a href=\"https://www.auswaertiges-amt.de/blob/216910/7a1be4e46851e6912959e89bc9cd90ee/energiewendewhoiswho-data.pdf\" target=\"_blank\">https://www.auswaertiges-amt.de</a></li><li><a href=\"https://www.umweltbundesamt.de/en\" target=\"_blank\">https://www.umweltbundesamt.de/en</a></li><li><a href=\"https://www.dena.de/en/home/\" target=\"_blank\">https://www.dena.de/en/home/</a></li><li><a href=\"https://www.borderstep.org/\" target=\"_blank\">https://www.borderstep.org/</a></li></ol><h3>Social Media</h3><ol><li><a href=\"https://twitter.com\" target=\"_blank\">Twitter</a> - search for topic related hashtags, such as \"#cleanenergy,\" and then look at which companies are promoting themselves.</li><li><a href=\"https://reddit.com\" target=\"_blank\">Reddit</a> - offers subreddits/communities on every topic that you can think of. The posts that appear on these subreddits can either offer you additional keywords to search for or even provide companies directly. Subreddits often link to other related subreddits, so this is useful as a tool for brainstorming. For example, on <a href=\"https://old.reddit.com/r/ZeroWaste/\" target=\"_blank\">https://old.reddit.com/r/ZeroWaste/</a>, you will find a list of over 40 related subreddits to explore. This can give you ideas for online searches that you can perform for companies working in these spaces.</li></ol>",
+          "checked": false
         },
         {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f7a",
-                    "label": "Find an employee",
-                    "flexibleText": "<ol><li><a href=\"https://www.linkedin.com/search/results/people/\" target=\"_blank\">https://www.linkedin.com/search/results/people/</a> </li><li><a href=\"https://www.xing.com/search/members\" target=\"_blank\">https://www.xing.com/search/members</a></li><li><a href=\"https://hunter.io/\" target=\"_blank\">https://hunter.io/</a></li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f79",
-                    "label": "Start with a gift",
-                    "flexibleText": "<p>Before asking any other question, find out what the employee's favorite snack is and have it delivered to them, then schedule the call or continue on with your questions via email/messenger a few days later.</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f78",
-                    "label": "Connect",
-                    "flexibleText": "<p>Do a Skype call if possible, otherwise email or messaging will have to suffice.</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f77",
-                    "label": "Questions to ask",
-                    "flexibleText": "<ol><li>Beyond the questions sparked from your initial research, you should also ask the following.</li><li>“How much do you think I’d make if I got hired at a company like yours?\"</li><li>What hours do they usually work and what the time expectations are?</li><li>What the corporate dress code is?</li><li>If the corporate values stated on their website are really adhered to in practice?</li><li>What sort of machine they use?</li><li>In general, find out how the team they work on operates. What is a normal workflow like? Do they follow some methodology for getting things done or assigning work?</li><li>Do people tend to work in the same silos or do they spread the work around among the team?</li><li>Are there multiple products? Are there cross-product or cross-functional teams?</li><li>Find out about their boss.</li></ol><p><br></p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f76",
-            "title": "Step 3: Advanced Research",
-            "flexibleText": "<p>Your initial research should give you a good \"feel\" for the companies that you are considering, but it will probably also give rise to additional questions. You can get more out of your initial research by contacting current employees directly and asking them for additional information, for clarifications and confirmation of the details from your initial research.</p>"
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fda",
+          "label": "Culture and environment",
+          "flexibleText": "<p>Reviews by previous or current employees are available via these sites. You should pay attention to the 1 and 5 star ratings to get a sense of the complaints and the things employees are satisfied with.</p><ol><li><a href=\"https://www.kununu.com/\" target=\"_blank\">https://www.kununu.com/</a></li><li><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a></li></ol><p>Company websites are usually directed towards customers as an audience, but the communication style can tell you something about the company culture.</p><ol><li>The about page can also tell you more about their core values.</li><li>Who is the majority owner of the company? Who is on the board? What are they trying to accomplish?</li></ol><p>Social Media</p><ol><li>Review both the official company accounts for tone, style and content. Are they stiff sounding or do they use a softer more relaxed tone?</li><li>Search for any posts by the public referencing the company and evaluate what they are saying about the company. Are they happy customers? Are there any common complaints?</li></ol>",
+          "checked": false
         },
         {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f75",
-                    "label": "Practice being interviewed",
-                    "flexibleText": "<p>Doing well on an interview is a skill that can be developed. Ask your friends who are team leads or senior developers to do mock interviews with you.</p><p>Start practicing as early as possible. You do not need to wait until you reach this step, you can start as early as Step 1.</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f74",
-                    "label": "Participate in the community - in real life",
-                    "flexibleText": "<p>Making yourself visible and meeting new people who work in your industry can help you:</p><ol><li>Get a personal introduction to a hiring manager.</li><li>Present you with opportunities before they are made public.</li><li>Allow you to do some exploratory work by asking fellow group members about their work situation and if they are happy with their employer.</li></ol><p>Use tools like Meetup (<a href=\"https://www.meetup.com/\" target=\"_blank\">https://www.meetup.com/</a>) to participate in groups related to software engineering, management, or any related topic that you think would attract not only fellow software developers, but also and maybe more importantly managers or executive team members. You can also obviously participate in groups related to environmental justice. The key here is to create a network and make yourself known.</p><p>Do not just attend the group meetings, participate. Ask questions, share your thoughts and help organize the meetings.</p><p>It goes without saying that if you can do a presentation, then there is no better way of being recognized.</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f73",
-                    "label": "Participate in the community - online",
-                    "flexibleText": "<p>If in-person meetings do not fit your style, you can expand your network by either contributing to open source projects or providing assistance to others on sites like Stack Overflow.</p><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f72",
-                    "label": "Side projects",
-                    "flexibleText": "<ol><li>Work on something interesting or creative as a side project.</li><li>Explore new technologies when working on your project(s). You will make it obvious that you are learning new things.</li><li>The projects do not have to be a massive new application, creating simple yet useful tools or libraries can make a good impression.</li></ol><h3>An Example</h3><p>This checklist that you are using is an example of such a side project. The general application was something that I found personally useful, but I also built it with the intention of giving back to the dev community via the dev checklists that I created (<a href=\"https://ch.ckl.st/r/comprehensive-web-application-checklist\" target=\"_blank\">https://ch.ckl.st/r/comprehensive-web-application-checklist</a>) and I wanted to contribute to the fight against climate change <a href=\"https://ch.ckl.st/r/how-to-fight-climate-change\" target=\"_blank\">https://ch.ckl.st/r/how-to-fight-climate-change</a></p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f71",
-            "title": "Step 4: Stand Above the Rest",
-            "flexibleText": "<p>All the research that you have done up until now will be used to customize your resumes and cover letters. Before we move onto those steps though, we need to discuss one last set of preparatory items that will contribute to your resumes and prepare you for the steps that come after. These suggestions here are intended to make you as strong of a contender as possible for an open position. Do not get over-confident.</p>"
-        },
-        {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f70",
-                    "label": "Make your resume easy to skim",
-                    "flexibleText": "<p>Most resumes are not read, but rather quickly reviewed for relevant information.</p><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f6f",
-                    "label": "Place the most important information closest to the top",
-                    "flexibleText": "<p>This is dependent on what the company that you are applying for considers important.</p><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f6e",
-                    "label": "Format - sequence",
-                    "flexibleText": "<p>Unless you have found that the company considers one of these items more important than the rest, the general order of the sections in your resume should be:</p><ol><li>Your name</li><li>Contact information</li><li>Education</li><li>Employment</li><li>Side projects</li><li>Open source contributions</li><li>Publications, such as blog posts, articles, podcasts, videos, etc.</li><li>Social activities that are relevant to the company or organization</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f6d",
-                    "label": "Format - details",
-                    "flexibleText": "<p>Use bulleted lists to describe what you have accomplished for your employers and your side projects, and follow the format prescribed by Laszlo.</p><p>\"The primary objective of the Employment section is to show the impact and value that you had while working at an established institution. Your goal is to show recruiters that you are a candidate that can get things done and do them well. To best showcase my accomplishments in my résumé, I adopted the following powerful formula, created by the Former SVP of People Operations at Google, Laszlo Bock:\" <a href=\"https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d\" target=\"_blank\">https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d</a></p><ul><li>\"Accomplished [X] as measured by [Y] by doing [Z]”</li></ul><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f6c",
-                    "label": "Style",
-                    "flexibleText": "<p>Personally, I moved beyond using a \"boring\" conservative mostly text-based resume several years back. I did a non-scientific trial by sending out both a primarily text-only resume and one that had <a href=\"https://pablooliva.de/docs/Pablo-Oliva-CV-EN.pdf\" target=\"_blank\">more design applied</a> to it, and it definitely was my experience that the one with more design and polish got a better response rate. (I purchased this <a href=\"https://creativemarket.com/bilmaw/28972-My-Resume-Version-1\" target=\"_blank\">template</a> and then tweaked it to my liking.)</p><p>If you think that this style of resume would help you, then here are some resources:</p><ol><li class=\"ql-indent-1\"><a href=\"https://github.com/salomonelli/best-resume-ever\" target=\"_blank\">https://github.com/salomonelli/best-resume-ever</a></li><li class=\"ql-indent-1\"><a href=\"https://novoresume.com/\" target=\"_blank\">https://novoresume.com/</a></li><li class=\"ql-indent-1\"><a href=\"https://creativemarket.com/search?q=resume+template\" target=\"_blank\">https://creativemarket.com/search?q=resume+template</a></li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f6b",
-                    "label": "Tools",
-                    "flexibleText": "<ol><li>Suggestions to improve your resume: <a href=\"https://cvcompiler.com/\" target=\"_blank\">https://cvcompiler.com/</a></li><li>A resume-style overview of your GitHub activity: <a href=\"https://resume.github.io/\" target=\"_blank\">https://resume.github.io/</a>. The result is something like this: <a href=\"https://resume.github.io/?pablooliva\" target=\"_blank\">https://resume.github.io/?pablooliva</a>. This should not be your primary resume, but it could be provided as a link from your actual resume to highlight your side projects and contributions to other projects.</li></ol>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f6a",
-            "title": "Step 5: Resumes",
-            "flexibleText": "<p>Resumes are a very personal thing. Take the suggestions given here and in the 2 additional resources that we link to and apply what makes sense to you and what fits your style. Do not be afraid to let your personality show through in your resume.</p><p>Supporting material:</p><ol><li><a href=\"https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1\" target=\"_blank\">https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1</a></li><li><a href=\"https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d\" target=\"_blank\">https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d</a></li></ol><h3>Leverage your Research</h3><p>Do not forget to leverage the research that you have done in the previous steps to guide how you structure your resume and present yourself, your accomplishments and your potential.</p>"
-        },
-        {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f69",
-                    "label": "Format and structure",
-                    "flexibleText": "<ol><li>Introduction.</li><li>The reasons why you’re applying to work with them.</li><li>The kind of employee you’ll be and why that is a good fit for them.</li><li>An invitation to contact you.</li></ol>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f68",
-                    "label": "Introduction",
-                    "flexibleText": "<p>The introduction is basically a summary of your resume, but it also emphasizes the parts of your resume you want them to pay particular attention to.</p><p>A good introduction will:</p><ol><li>List your achievements.</li><li>Highlight any relevant skills or knowledge you have.</li><li>Let them know how long you’ve been working in the field.</li><li>Note any other qualifications you have.</li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f67",
-                    "label": "Reasons for applying",
-                    "flexibleText": "<p>Tell them why you want to work for them, include bits from your research.</p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f66",
-                    "label": "Why you are a good fit",
-                    "flexibleText": "<ol><li>Establishing that you will be a good fit is a good way to alleviate some of their worries about hiring you.</li><li>Start by telling them what is important to you: <em>When I started looking for new work, I knew I wanted a place where I could have an impact on the company, help them make a difference in the world, and that was close to my home.</em></li><li>Then, how you researched the company: <em>I spent a lot of time reading your website, talking to your employees, and evaluating what customers said about the company on social media.</em></li><li>Finally, share what you learned: <em>Your employees Joe Clinker and Robin Masters told me that you’re absolutely serious about changing the world. I also heard about several internal projects that can benefit from my skill set around JavaScript programming. Finally, your location is close to my home and my family.</em></li></ol>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f65",
-            "title": "Step 6: Cover Letters",
-            "flexibleText": "<p>Cover letters should help you establish what kind of employee you will be. Again, use the research that you have amassed to outline why you are applying to work with them and what solutions you will be providing to the company.</p>"
-        },
-        {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f64",
-                    "label": "Reach out every 1-2 weeks",
-                    "flexibleText": "<p>You can ask how the search for applicants is progressing and if you can answer any questions for them.</p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f63",
-            "title": "Step 7: Follow Up",
-            "flexibleText": "<p>Following up is important after you have submitted your resume and cover letter, but you do not want to appear pushy or desperate.</p>"
-        },
-        {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f62",
-                    "label": "Review your technical material",
-                    "flexibleText": "<p>This will be very specific to the job that you will be applying to, and I am sure that you can find plenty of resources online that will help you if you do a little research, but the point is to put the effort into this and do as much as you can to go into the interview sharp.</p><p>Examples for a front-end focused interview:</p><ol><li><a href=\"https://blog.avocode.com/blog/how-to-prepare-for-a-front-end-developer-job-interview\" target=\"_blank\">https://blog.avocode.com/blog/how-to-prepare-for-a-front-end-developer-job-interview</a></li><li><a href=\"https://github.com/fejes713/30-seconds-of-interviews\" target=\"_blank\">https://github.com/fejes713/30-seconds-of-interviews</a></li><li><a href=\"https://github.com/adam-s/js-interview-review\" target=\"_blank\">https://github.com/adam-s/js-interview-review</a> </li><li><a href=\"https://github.com/yangshun/tech-interview-handbook\" target=\"_blank\">https://github.com/yangshun/tech-interview-handbook</a></li><li><a href=\"https://github.com/yangshun/front-end-interview-handbook\" target=\"_blank\">https://github.com/yangshun/front-end-interview-handbook</a></li></ol><p><br></p>",
-                    "checked": false
-                },
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f61",
-                    "label": "Interview and evaluate the interviewers",
-                    "flexibleText": "<p>It is important to not just respond well during an interview, but you should also be prepared to ask good questions and be ready to evaluate those interviewing you. Questions can naturally arise from any of the topics discussed during the interview, so take the time to get answers to these. Additionally, you should go in with several prepared questions that can supplement your spontaneous questions.</p><p>Evaluate the interviewers:</p><ol><li>Are the people interviewing me the people I’ll be working with?</li><li>Do I get to meet the person I’ll be reporting to?</li><li>What’s their track record?</li><li>Are they experienced?</li><li>Do I feel I can respect this person enough to be managed by them?</li><li>Will I learn from my future teammates and manager?</li></ol><p>Examples of questions to ask:</p><ol><li><a href=\"https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po\" target=\"_blank\">https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po </a></li><li><a href=\"https://github.com/Twipped/InterviewThis\" target=\"_blank\">https://github.com/Twipped/InterviewThis</a></li><li><a href=\"https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc\" target=\"_blank\">https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc</a></li></ol>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f60",
-            "title": "Step 8: Interviews",
-            "flexibleText": "<p>Interviews can vary greatly from informal to technical. I suggest that you do as many interviews as you can to help you&nbsp;improve your performance. At a minimum, as mentioned in Step 4, practice with senior colleagues or friends who are senior developers.</p><p>Demonstrating confidence in an interview can definitely be a good thing, but don't be overly confident and avoid preparations. This includes reviewing technical material and also <a href=\"https://www.learning-mind.com/how-to-psychologically-prepare-for-an-interview/\" target=\"_blank\">personal mental preparation</a>.</p>"
-        },
-        {
-            "checklistItems": [
-                {
-                    "checklistTagsEnabled": [],
-                    "_id": "5ca3615c4c6f1b004a609f5f",
-                    "label": "Quantify the offers",
-                    "flexibleText": "<p>The spreadsheet (available on <a href=\"https://www.dropbox.com/s/31fuk5sydgioh8b/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx?dl=0\" target=\"_blank\">Dropbox</a> and <a href=\"https://github.com/pablooliva/ch.ckl.st-community/blob/master/docs/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx\" target=\"_blank\">GitHub</a>) mentioned in Step 1 should help you quantify and evaluate your offers.</p><p>My spreadsheet was influenced by <a href=\"https://docs.google.com/spreadsheets/d/1huExwmi7fWgXpci8uM7-kVZx-UHNzYp1ORVscQWuin4/edit#gid=1299879985\" target=\"_blank\">Joel Califa's contribution to the community</a>: <a href=\"https://twitter.com/notdetails/status/961570492162494464\" target=\"_blank\">https://twitter.com/notdetails/status/961570492162494464</a></p>",
-                    "checked": false
-                }
-            ],
-            "_id": "5ca3615c4c6f1b004a609f5e",
-            "title": "Step 9: Evaluate the Offers",
-            "flexibleText": "<p>Evaluating your offers should be relatively easy since you defined what criteria where important to you in Step 1.</p>"
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd9",
+          "label": "Technology and job expectations",
+          "flexibleText": "<p><a href=\"https://www.glassdoor.com\" target=\"_blank\">https://www.glassdoor.com</a> also has an interviews section which has information provided by people who have interviewed with the company. Company interviews are designed to figure out if the applicant is a good fit. If you can glean information about what it is the company is looking for and put that it into your resume, you will certainly stand ou</p>",
+          "checked": false
         }
-    ],
-    "__v": 37
+      ],
+      "_id": "5cb35a774c6f1b004a609fd8",
+      "title": "Step 2: Initial Research",
+      "flexibleText": "<p>After you have defined your target, we can turn to doing the research for finding a company that fits your criteria.</p><p>When researching companies, you are not just looking for a right fit, but you should also be keen to finding hints about what it is that the company is looking for in a potential new hire. After all, the company does not just need to fit you, but management also needs to see that you are a good fit for the company or organization. Use these hints and work them into your resume (Step 5) or cover letter (Step 6) to increase your appeal.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd7",
+          "label": "Find an employee",
+          "flexibleText": "<ol><li><a href=\"https://www.linkedin.com/search/results/people/\" target=\"_blank\">https://www.linkedin.com/search/results/people/</a> </li><li><a href=\"https://www.xing.com/search/members\" target=\"_blank\">https://www.xing.com/search/members</a></li><li><a href=\"https://hunter.io/\" target=\"_blank\">https://hunter.io/</a></li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd6",
+          "label": "Start with a gift",
+          "flexibleText": "<p>Before asking any other question, find out what the employee's favorite snack is and have it delivered to them, then schedule the call or continue on with your questions via email/messenger a few days later.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd5",
+          "label": "Connect",
+          "flexibleText": "<p>Do a Skype call if possible, otherwise email or messaging will have to suffice.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd4",
+          "label": "Questions to ask",
+          "flexibleText": "<ol><li>Beyond the questions sparked from your initial research, you should also ask the following.</li><li>“How much do you think I’d make if I got hired at a company like yours?\"</li><li>What hours do they usually work and what the time expectations are?</li><li>What the corporate dress code is?</li><li>If the corporate values stated on their website are really adhered to in practice?</li><li>What sort of machine they use?</li><li>In general, find out how the team they work on operates. What is a normal workflow like? Do they follow some methodology for getting things done or assigning work?</li><li>Do people tend to work in the same silos or do they spread the work around among the team?</li><li>Are there multiple products? Are there cross-product or cross-functional teams?</li><li>Find out about their boss.</li></ol><p><br></p>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fd3",
+      "title": "Step 3: Advanced Research",
+      "flexibleText": "<p>Your initial research should give you a good \"feel\" for the companies that you are considering, but it will probably also give rise to additional questions. You can get more out of your initial research by contacting current employees directly and asking them for additional information, for clarifications and confirmation of the details from your initial research.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd2",
+          "label": "Practice being interviewed",
+          "flexibleText": "<p>Doing well on an interview is a skill that can be developed. Ask your friends who are team leads or senior developers to do mock interviews with you.</p><p>Start practicing as early as possible. You do not need to wait until you reach this step, you can start as early as Step 1.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd1",
+          "label": "Participate in the community - in real life",
+          "flexibleText": "<p>Making yourself visible and meeting new people who work in your industry can help you:</p><ol><li>Get a personal introduction to a hiring manager.</li><li>Present you with opportunities before they are made public.</li><li>Allow you to do some exploratory work by asking fellow group members about their work situation and if they are happy with their employer.</li></ol><p>Use tools like Meetup (<a href=\"https://www.meetup.com/\" target=\"_blank\">https://www.meetup.com/</a>) to participate in groups related to software engineering, management, or any related topic that you think would attract not only fellow software developers, but also and maybe more importantly managers or executive team members. You can also obviously participate in groups related to environmental justice. The key here is to create a network and make yourself known.</p><p>Do not just attend the group meetings, participate. Ask questions, share your thoughts and help organize the meetings.</p><p>It goes without saying that if you can do a presentation, then there is no better way of being recognized.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fd0",
+          "label": "Participate in the community - online",
+          "flexibleText": "<p>If in-person meetings do not fit your style, you can expand your network by either contributing to open source projects or providing assistance to others on sites like Stack Overflow.</p><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fcf",
+          "label": "Side projects",
+          "flexibleText": "<ol><li>Work on something interesting or creative as a side project.</li><li>Explore new technologies when working on your project(s). You will make it obvious that you are learning new things.</li><li>The projects do not have to be a massive new application, creating simple yet useful tools or libraries can make a good impression.</li></ol><h3>An Example</h3><p>This checklist that you are using is an example of such a side project. The general application was something that I found personally useful, but I also built it with the intention of giving back to the dev community via the dev checklists that I created (<a href=\"https://ch.ckl.st/r/comprehensive-web-application-checklist\" target=\"_blank\">https://ch.ckl.st/r/comprehensive-web-application-checklist</a>) and I wanted to contribute to the fight against climate change <a href=\"https://ch.ckl.st/r/how-to-fight-climate-change\" target=\"_blank\">https://ch.ckl.st/r/how-to-fight-climate-change</a></p>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fce",
+      "title": "Step 4: Stand Above the Rest",
+      "flexibleText": "<p>All the research that you have done up until now will be used to customize your resumes and cover letters. Before we move onto those steps though, we need to discuss one last set of preparatory items that will contribute to your resumes and prepare you for the steps that come after. These suggestions here are intended to make you as strong of a contender as possible for an open position. Do not get over-confident.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fcd",
+          "label": "Make your resume easy to skim",
+          "flexibleText": "<p>Most resumes are not read, but rather quickly reviewed for relevant information.</p><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fcc",
+          "label": "Place the most important information closest to the top",
+          "flexibleText": "<p>This is dependent on what the company that you are applying for considers important.</p><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fcb",
+          "label": "Format - sequence",
+          "flexibleText": "<p>Unless you have found that the company considers one of these items more important than the rest, the general order of the sections in your resume should be:</p><ol><li>Your name</li><li>Contact information</li><li>Education</li><li>Employment</li><li>Side projects</li><li>Open source contributions</li><li>Publications, such as blog posts, articles, podcasts, videos, etc.</li><li>Social activities that are relevant to the company or organization</li></ol>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fca",
+          "label": "Format - details",
+          "flexibleText": "<p>Use bulleted lists to describe what you have accomplished for your employers and your side projects, and follow the format prescribed by Laszlo.</p><p>\"The primary objective of the Employment section is to show the impact and value that you had while working at an established institution. Your goal is to show recruiters that you are a candidate that can get things done and do them well. To best showcase my accomplishments in my résumé, I adopted the following powerful formula, created by the Former SVP of People Operations at Google, Laszlo Bock:\" <a href=\"https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d\" target=\"_blank\">https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d</a></p><ul><li>\"Accomplished [X] as measured by [Y] by doing [Z]”</li></ul><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc9",
+          "label": "Style",
+          "flexibleText": "<p>Personally, I moved beyond using a \"boring\" conservative mostly text-based resume several years back. I did a non-scientific trial by sending out both a primarily text-only resume and one that had <a href=\"https://pablooliva.de/docs/Pablo-Oliva-CV-EN.pdf\" target=\"_blank\">more design applied</a> to it, and it definitely was my experience that the one with more design and polish got a better response rate. (I purchased this <a href=\"https://creativemarket.com/bilmaw/28972-My-Resume-Version-1\" target=\"_blank\">template</a> and then tweaked it to my liking.)</p><p>If you think that this style of resume would help you, then here are some resources:</p><ol><li class=\"ql-indent-1\"><a href=\"https://github.com/salomonelli/best-resume-ever\" target=\"_blank\">https://github.com/salomonelli/best-resume-ever</a></li><li class=\"ql-indent-1\"><a href=\"https://novoresume.com/\" target=\"_blank\">https://novoresume.com/</a></li><li class=\"ql-indent-1\"><a href=\"https://creativemarket.com/search?q=resume+template\" target=\"_blank\">https://creativemarket.com/search?q=resume+template</a></li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc8",
+          "label": "Tools",
+          "flexibleText": "<ol><li>Suggestions to improve your resume: <a href=\"https://cvcompiler.com/\" target=\"_blank\">https://cvcompiler.com/</a></li><li>A resume-style overview of your GitHub activity: <a href=\"https://resume.github.io/\" target=\"_blank\">https://resume.github.io/</a>. The result is something like this: <a href=\"https://resume.github.io/?pablooliva\" target=\"_blank\">https://resume.github.io/?pablooliva</a>. This should not be your primary resume, but it could be provided as a link from your actual resume to highlight your side projects and contributions to other projects.</li></ol>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fc7",
+      "title": "Step 5: Resumes",
+      "flexibleText": "<p>Resumes are a very personal thing. Take the suggestions given here and in the 2 additional resources that we link to and apply what makes sense to you and what fits your style. Do not be afraid to let your personality show through in your resume.</p><p>Supporting material:</p><ol><li><a href=\"https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1\" target=\"_blank\">https://dev.to/emmawedekind/how-to-write-a-kick-ass-technical-resume-3mb1</a></li><li><a href=\"https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d\" target=\"_blank\">https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d</a></li></ol><h3>Leverage your Research</h3><p>Do not forget to leverage the research that you have done in the previous steps to guide how you structure your resume and present yourself, your accomplishments and your potential.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc6",
+          "label": "Format and structure",
+          "flexibleText": "<ol><li>Introduction.</li><li>The reasons why you’re applying to work with them.</li><li>The kind of employee you’ll be and why that is a good fit for them.</li><li>An invitation to contact you.</li></ol>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc5",
+          "label": "Introduction",
+          "flexibleText": "<p>The introduction is basically a summary of your resume, but it also emphasizes the parts of your resume you want them to pay particular attention to.</p><p>A good introduction will:</p><ol><li>List your achievements.</li><li>Highlight any relevant skills or knowledge you have.</li><li>Let them know how long you’ve been working in the field.</li><li>Note any other qualifications you have.</li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc4",
+          "label": "Reasons for applying",
+          "flexibleText": "<p>Tell them why you want to work for them, include bits from your research.</p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc3",
+          "label": "Why you are a good fit",
+          "flexibleText": "<ol><li>Establishing that you will be a good fit is a good way to alleviate some of their worries about hiring you.</li><li>Start by telling them what is important to you: <em>When I started looking for new work, I knew I wanted a place where I could have an impact on the company, help them make a difference in the world, and that was close to my home.</em></li><li>Then, how you researched the company: <em>I spent a lot of time reading your website, talking to your employees, and evaluating what customers said about the company on social media.</em></li><li>Finally, share what you learned: <em>Your employees Joe Clinker and Robin Masters told me that you’re absolutely serious about changing the world. I also heard about several internal projects that can benefit from my skill set around JavaScript programming. Finally, your location is close to my home and my family.</em></li></ol>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fc2",
+      "title": "Step 6: Cover Letters",
+      "flexibleText": "<p>Cover letters should help you establish what kind of employee you will be. Again, use the research that you have amassed to outline why you are applying to work with them and what solutions you will be providing to the company.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fc1",
+          "label": "Reach out every 1-2 weeks",
+          "flexibleText": "<p>You can ask how the search for applicants is progressing and if you can answer any questions for them.</p>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fc0",
+      "title": "Step 7: Follow Up",
+      "flexibleText": "<p>Following up is important after you have submitted your resume and cover letter, but you do not want to appear pushy or desperate.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fbf",
+          "label": "Review your technical material",
+          "flexibleText": "<p>This will be very specific to the job that you will be applying to, and I am sure that you can find plenty of resources online that will help you if you do a little research, but the point is to put the effort into this and do as much as you can to go into the interview sharp.</p><p>Examples for a front-end focused interview:</p><ol><li><a href=\"https://blog.avocode.com/blog/how-to-prepare-for-a-front-end-developer-job-interview\" target=\"_blank\">https://blog.avocode.com/blog/how-to-prepare-for-a-front-end-developer-job-interview</a></li><li><a href=\"https://github.com/fejes713/30-seconds-of-interviews\" target=\"_blank\">https://github.com/fejes713/30-seconds-of-interviews</a></li><li><a href=\"https://github.com/adam-s/js-interview-review\" target=\"_blank\">https://github.com/adam-s/js-interview-review</a> </li><li><a href=\"https://github.com/yangshun/tech-interview-handbook\" target=\"_blank\">https://github.com/yangshun/tech-interview-handbook</a></li><li><a href=\"https://github.com/yangshun/front-end-interview-handbook\" target=\"_blank\">https://github.com/yangshun/front-end-interview-handbook</a></li></ol><p><br></p>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fbe",
+          "label": "Interview and evaluate the interviewers",
+          "flexibleText": "<p>It is important to not just respond well during an interview, but you should also be prepared to ask good questions and be ready to evaluate those interviewing you. Questions can naturally arise from any of the topics discussed during the interview, so take the time to get answers to these. Additionally, you should go in with several prepared questions that can supplement your spontaneous questions.</p><p>Evaluate the interviewers:</p><ol><li>Are the people interviewing me the people I’ll be working with?</li><li>Do I get to meet the person I’ll be reporting to?</li><li>What’s their track record?</li><li>Are they experienced?</li><li>Do I feel I can respect this person enough to be managed by them?</li><li>Will I learn from my future teammates and manager?</li></ol><p>Examples of questions to ask:</p><ol><li><a href=\"https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po\" target=\"_blank\">https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po </a></li><li><a href=\"https://github.com/Twipped/InterviewThis\" target=\"_blank\">https://github.com/Twipped/InterviewThis</a></li><li><a href=\"https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc\" target=\"_blank\">https://gist.github.com/vcarl/14275c72baf976ff1665392e14225dcc</a></li></ol>",
+          "checked": false
+        },
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fbd",
+          "label": "Salary negotiation",
+          "flexibleText": "<p>\"Your salary negotiation — which routinely takes less than 5 minutes to conclude — has an outsized influence on what your compensation is.&nbsp;Compensation can include money or things which are more-or-less fungible replacements for money, but it can also include interesting things which you value from “more time with your family” to “opportunities to do tasks which you find fulfilling” to “perks which make a meaningful difference in your day-to-day quality of life.”&nbsp;That makes your negotiation <strong>five very important minutes</strong>.&nbsp;You generally can’t do a totally bang up job on any five minutes of work this year and have your boss give you an extra $5,000.&nbsp;<strong>You can trivially pick up $5,000 in salary negotiations just by sucking <em>less</em>.</strong>\"</p><p>Take the time to read the complete article: <a href=\"https://www.kalzumeus.com/2012/01/23/salary-negotiation/\" target=\"_blank\">https://www.kalzumeus.com/2012/01/23/salary-negotiation/</a></p>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fbc",
+      "title": "Step 8: Interviews",
+      "flexibleText": "<p>Interviews can vary greatly from informal to technical. I suggest that you do as many interviews as you can to help you&nbsp;improve your performance. At a minimum, as mentioned in Step 4, practice with senior colleagues or friends who are senior developers.</p><p>Demonstrating confidence in an interview can definitely be a good thing, but don't be overly confident and avoid preparations. This includes reviewing technical material and also <a href=\"https://www.learning-mind.com/how-to-psychologically-prepare-for-an-interview/\" target=\"_blank\">personal mental preparation</a>.</p>"
+    },
+    {
+      "checklistItems": [
+        {
+          "checklistTagsEnabled": [],
+          "_id": "5cb35a774c6f1b004a609fbb",
+          "label": "Quantify the offers",
+          "flexibleText": "<p>The spreadsheet (available on <a href=\"https://www.dropbox.com/s/31fuk5sydgioh8b/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx?dl=0\" target=\"_blank\">Dropbox</a> and <a href=\"https://github.com/pablooliva/ch.ckl.st-community/blob/master/docs/Find-a-Job-Fighting-Climate-Change-as-a-Software-Developer.xlsx\" target=\"_blank\">GitHub</a>) mentioned in Step 1 should help you quantify and evaluate your offers.</p><p>My spreadsheet was influenced by <a href=\"https://docs.google.com/spreadsheets/d/1huExwmi7fWgXpci8uM7-kVZx-UHNzYp1ORVscQWuin4/edit#gid=1299879985\" target=\"_blank\">Joel Califa's contribution to the community</a>: <a href=\"https://twitter.com/notdetails/status/961570492162494464\" target=\"_blank\">https://twitter.com/notdetails/status/961570492162494464</a></p>",
+          "checked": false
+        }
+      ],
+      "_id": "5cb35a774c6f1b004a609fba",
+      "title": "Step 9: Evaluate the Offers",
+      "flexibleText": "<p>Evaluating your offers should be relatively easy since you defined what criteria where important to you in Step 1.</p>"
+    }
+  ],
+  "__v": 39
 }
