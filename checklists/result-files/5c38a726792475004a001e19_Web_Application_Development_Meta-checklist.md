@@ -1,6 +1,6 @@
 # Web Application Development Meta-checklist
   
-<p><img src="https://api.ch.ckl.st/user-images/webdev.svg-1549216161171.svg"></p><p>A comprehensive meta-checklist leveraging some of the best online resources to help developers successfully develop and launch their website or web application.</p><p>These checklists shared here were used to help us <a href="https://voice.ch.ckl.st/application-launch-perfect-scenario-for-checklists/" target="_blank">launch this application</a>.</p>
+<p><img src="https://api.ch.ckl.st/user-images/webdev.svg-1549216161171.svg"></p><p>A comprehensive meta-checklist leveraging some of the best online resources to help developers successfully develop and launch their website or web application.</p><p>These checklists shared here were used to help us <a href="https://voice.ch.ckl.st/application-launch-perfect-scenario-for-checklists/" target="_blank">launch this application</a>.</p><p>This checklist as well as all other ch.ckl.st web-development-related checklists mentioned here are also&nbsp;<strong>available on GitHub as a Markdown file</strong>&nbsp;so that you can:</p><ol><li><a href="https://github.com/pablooliva/ch.ckl.st-community/blob/master/checklists/result-files/5c38a726792475004a001e19_Web_Application_Development_Meta-checklist.md" target="_blank">Submit corrections, additions, or improvements as a pull request</a></li><li><a href="https://raw.githubusercontent.com/pablooliva/ch.ckl.st-community/master/checklists/result-files/5c38a726792475004a001e19_Web_Application_Development_Meta-checklist.md" target="_blank">Copy and paste the raw Markdown into a gist to use on your own</a></li></ol>
 
 
 ## Quick Pre-launch Evaluations
@@ -33,6 +33,15 @@
 
 - [ ] Homepage as a Landing Page Design Checklist
       <p>Homepages and landing pages have different requirements and use cases, but you can also take many of the concepts from a well designed landing page and apply them to a homepage to make it effective in ushering users towards a specific action.</p><p><a href="https://ch.ckl.st/r/landing-page-design-best-practices-checklist" target="_blank">https://ch.ckl.st/r/landing-page-design-best-practices-checklist</a></p>
+
+
+
+## Back-End
+
+
+  
+- [ ] Node Best Practices
+      <p>This is not necessarily a checklist, but it is a series of considerations that you should make when designing your Node.js applications:</p><p><a href="https://github.com/i0natan/nodebestpractices" target="_blank">https://github.com/i0natan/nodebestpractices</a></p>
 
 
 
